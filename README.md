@@ -96,10 +96,9 @@ Formik / React Hook Form – For form handling (optional)
 Yup – Schema validation (optional)
 
 Screenshots
-🔹 Login Page
+![Login Page](https://github.com/Akulayagneshwaramurthy/Login-SignUp/blob/master/Image-1.png?raw=true)
 
-🔹 Signup Page
-
+![Signup Page](https://github.com/Akulayagneshwaramurthy/Login-SignUp/blob/master/Image-2.png?raw=true)
 How It Works
 When a user navigates to /login, they see the login form.
 
@@ -126,13 +125,9 @@ This is a React-based authentication system that includes Login & Signup pages w
 ✅ Responsive & Minimal UI – Clean and user-friendly interface.
 
 📸 Screenshots
-🔹 Login Page
-
-🔹 Signup Page
-
-🔹 Incorrect Confirm Password
-
-🔹 Successful Login
+![Login Page](https://github.com/Akulayagneshwaramurthy/Login-SignUp/blob/master/Image-3.png?raw=true)
+![Signup Page](https://github.com/Akulayagneshwaramurthy/Login-SignUp/blob/master/Image-5.png?raw=true)
+![Signup Page](https://github.com/Akulayagneshwaramurthy/Login-SignUp/blob/master/Image-4.png?raw=true)
 
 🏗 Tech Stack
 React.js – Frontend framework
