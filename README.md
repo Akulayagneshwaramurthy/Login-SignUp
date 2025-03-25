@@ -68,3 +68,96 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+React Login & Signup Page
+This project is a simple authentication system built with React that includes both Login and Signup forms on the same page. The UI is clean and minimalistic, making it easy to integrate into any project.
+
+Features
+📌 Login Page – Users can enter their email and password to sign in.
+
+📌 Signup Page – Users can create a new account by entering their full name, email, and password.
+
+📌 React Router – Navigation between login and signup sections without refreshing the page.
+
+📌 Styled Components or CSS – Clean UI design.
+
+📌 Form Validation – Basic validation for required fields.
+
+Tech Stack
+React.js – Frontend Framework
+
+React Router – For handling page navigation
+
+CSS/Tailwind – For styling the UI
+
+Formik / React Hook Form – For form handling (optional)
+
+Yup – Schema validation (optional)
+
+Screenshots
+🔹 Login Page
+
+🔹 Signup Page
+
+How It Works
+When a user navigates to /login, they see the login form.
+
+Clicking Sign Up takes them to /signup, where they can create an account.
+
+Input fields validate basic details like email format and password confirmation.
+
+React Authentication System (Login & Signup)
+This is a React-based authentication system that includes Login & Signup pages with form validation. Users can sign up, log in, and receive success or error messages based on their input.
+
+🛠 Features
+✅ Login Page – Users can log in with email and password.
+
+✅ Signup Page – New users can register by entering their details.
+
+✅ Confirm Password Validation – Ensures both password fields match in the signup form.
+
+✅ Login Success Alert – Displays a pop-up when login is successful.
+
+✅ Form Validation – Prevents invalid submissions (e.g., incorrect confirm password).
+
+✅ React Router Integration – Enables seamless navigation between pages.
+
+✅ Responsive & Minimal UI – Clean and user-friendly interface.
+
+📸 Screenshots
+🔹 Login Page
+
+🔹 Signup Page
+
+🔹 Incorrect Confirm Password
+
+🔹 Successful Login
+
+🏗 Tech Stack
+React.js – Frontend framework
+
+React Router – Handles navigation
+
+CSS/Tailwind – UI styling
+
+Formik / React Hook Form – Form handling (optional)
+
+Yup – Schema validation (optional)
+
+⚙ How It Works
+Signup Validation:
+
+Users must enter their full name, email, and password.
+
+If the confirm password doesn’t match the password field, an error message appears.
+
+If all fields are correct, the user is successfully registered.
+
+Login Validation:
+
+Users enter their email and password.
+
+If correct, a "Login Successful" message is displayed.
+
+If incorrect, an error message appears.
